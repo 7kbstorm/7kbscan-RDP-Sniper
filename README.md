@@ -36,7 +36,7 @@
 
 ![image](https://github.com/7kbstorm/7kbscan-RDP-Sniper/raw/master/pic/4.png)
 
-鸣谢 感谢二位兄长经常在开发期间对我无私的进行帮助
+鸣谢 感谢二位兄长经常在开发期间对我无私的帮助
 -------------------
 **zcgonvh https://github.com/zcgonvh**   
 **Marcos**    
